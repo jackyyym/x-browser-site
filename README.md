@@ -9,11 +9,12 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 ### Description
 ### Presentation
 ### SRS
-### Demo Video
 ### Intermediate assignments
 ### Class/sequence diagrams
 
 ## Prototype
+
+### Demo Video
 
 ## The Team
 

@@ -19,6 +19,7 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 ### Tzur Almog
 #### Resident cool guy
 ![Image](https://media-exp1.licdn.com/dms/image/C4E03AQHIiFfNRF4Tpg/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=kNGHHtVf8J11VjxdvoA9oqI5zlFC2xoeN4KqbIbOOxQ)
+
 [Personal Page](https://www.linkedin.com/in/tzur-almog-b38946180/)
 
 

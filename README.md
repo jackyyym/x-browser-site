@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jackyyym/x-browser-site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## What is X-Browser?
 X-Browser mixes the best of both worlds when developing for web: a rich text editor with autocomplete functionality and real time testing. Bla bla bla...
 

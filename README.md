@@ -6,6 +6,13 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 
 ## Our Plan & Other Links
 
+### Description
+### Prototype
+### Presentation
+### SRS
+### Demo Video
+### Intermediate assignments
+### Class/sequence diagrams
 
 ## The Team
 

@@ -5,8 +5,8 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 
 
 ## Our Plan & Other Links
-
-### Description
+[Team Files (restricted access)](https://drive.google.com/drive/folders/18pLuXi3tDflstceLGKMiwXNTEOpSbAV9?usp=sharing)
+### Original Description
 ### Presentation
 ### SRS
 ### Intermediate assignments

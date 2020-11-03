@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## The Team
+
+
+### Andrew Rivard
+![Image](https://media-exp1.licdn.com/dms/image/C4E03AQGfJkTIlJ5w5A/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=gj9Ig2OeOW28PywwJLXgCfRQuOH6jRU4ZGzOZJmZAuA)
+[Personal Page](https://andrivard4.github.io)

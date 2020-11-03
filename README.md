@@ -43,6 +43,14 @@ Pooja_Patel@student.uml.edu
 
 [Personal Page](https://www.linkedin.com/in/poojak9/)
 
+### Jacky McGrath
+#### //Code Typist
+![Image](https://media-exp1.licdn.com/dms/image/C4D03AQGYIRiCWRlZWw/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=yjIaeUTDR9RWtPV1jjAy7ZSI1S6jwozxt4AzocCZMyQ)
+
+jacklyn_mcgrath@student.uml.edu
+
+[Personal Page](https://www.linkedin.com/in/jacky-mcgrath/)
+
 
 
 ## Support or Contact

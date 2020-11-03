@@ -35,6 +35,14 @@ Tzur_Almog@student.uml.edu
 
 [Personal Page](https://www.linkedin.com/in/tzur-almog-b38946180/)
 
+### Pooja Patel
+#### //Role When I figure it out
+![Image](https://media-exp1.licdn.com/dms/image/C4E03AQHxHUFltPkTlg/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=pTJ_MHw7QrB1pt-pzYoCfN0UKRKUYjuRArapIZEOyqE)
+
+Pooja_Patel@student.uml.edu
+
+[Personal Page](https://www.linkedin.com/in/poojak9/)
+
 
 
 ## Support or Contact

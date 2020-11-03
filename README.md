@@ -20,7 +20,8 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 
 
 ### Andrew Rivard
-#### I dont know what my role name is...
+#### Developer Of Code
+andrew_rivard@student.uml.edu
 ![Image](https://media-exp1.licdn.com/dms/image/C4E03AQGfJkTIlJ5w5A/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=gj9Ig2OeOW28PywwJLXgCfRQuOH6jRU4ZGzOZJmZAuA)
 
 [Personal Page](https://andrivard4.github.io)

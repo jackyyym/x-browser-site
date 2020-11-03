@@ -1,5 +1,5 @@
 ## What is X-Browser?
-X-Browser mixes the best of both worlds when developing for web: a rich text editor with autocomplete functionality and real time testing. Bla bla bla...
+X-Browser mixes the best of both worlds when developing for web: a rich text editor with autocomplete functionality and real time testing.  Upon saving your HTML, CSS, or JavaScript file your code will come to life to  live in a multi browser view. Seeing your site running in major browsers like Chrome and Firefox all at once allows for better testing and compatibility checking. With X-Browser, you wont need to leave your editor to make sure your site is the best it can be!
 
 ## Why is X-Browser needed?
 
@@ -7,12 +7,13 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 ## Our Plan & Other Links
 
 ### Description
-### Prototype
 ### Presentation
 ### SRS
 ### Demo Video
 ### Intermediate assignments
 ### Class/sequence diagrams
+
+## Prototype
 
 ## The Team
 

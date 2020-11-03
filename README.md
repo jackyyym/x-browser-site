@@ -7,6 +7,7 @@ X-Browser mixes the best of both worlds when developing for web: a rich text edi
 ## Our Plan & Other Links
 [Team Files (restricted access)](https://drive.google.com/drive/folders/18pLuXi3tDflstceLGKMiwXNTEOpSbAV9?usp=sharing)
 ### Original Description
+[Original Project PDF](https://github.com/jackyyym/x-browser-site/blob/main/files/original-project-description.pdf)
 ### Presentation
 ### SRS
 ### Intermediate assignments
@@ -44,7 +45,7 @@ Pooja_Patel@student.uml.edu
 [Personal Page](https://www.linkedin.com/in/poojak9/)
 
 ### Jacky McGrath
-#### //Code Typist
+#### Code Typist
 ![Image](https://media-exp1.licdn.com/dms/image/C4D03AQGYIRiCWRlZWw/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=yjIaeUTDR9RWtPV1jjAy7ZSI1S6jwozxt4AzocCZMyQ)
 
 jacklyn_mcgrath@student.uml.edu

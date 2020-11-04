@@ -54,7 +54,7 @@ jacklyn_mcgrath@student.uml.edu
 
 ### Cassandra Harkins
 #### Developer
-![Image](https://media-exp1.licdn.com/dms/image/C5603AQEqjKqZgmxZMQ/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=pU5gUsZAFdvG9QL8dLFTvNerjLwZtWP2MTxhUrZCKmQ)
+![Image](https://media-exp1.licdn.com/dms/image/C5603AQEqjKqZgmxZMQ/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=MqfyBYcHC6Mo0W8d3wkYnKEwoDL-DBG8ZokCgRxFmCE)
 
 Cassandra_Harkins@student.uml.edu
 

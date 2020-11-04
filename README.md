@@ -45,7 +45,7 @@ Pooja_Patel@student.uml.edu
 [Personal Page](https://www.linkedin.com/in/poojak9/)
 
 ### Jacky McGrath
-#### Code Typist
+#### Code Typist / Project Manager
 ![Image](https://media-exp1.licdn.com/dms/image/C4D03AQGYIRiCWRlZWw/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=PQ5rwXOXoT4cWPpzbYfQ-ZyvmGeRKHfyg4uV71kRxLg)
 
 jacklyn_mcgrath@student.uml.edu

@@ -37,7 +37,7 @@ Tzur_Almog@student.uml.edu
 [Personal Page](https://www.linkedin.com/in/tzur-almog-b38946180/)
 
 ### Pooja Patel
-#### //Role When I figure it out
+#### User_Role: projectFacilitator
 ![Image](https://media-exp1.licdn.com/dms/image/C4E03AQHxHUFltPkTlg/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=pTJ_MHw7QrB1pt-pzYoCfN0UKRKUYjuRArapIZEOyqE)
 
 Pooja_Patel@student.uml.edu
@@ -46,7 +46,7 @@ Pooja_Patel@student.uml.edu
 
 ### Jacky McGrath
 #### Code Typist
-![Image](https://media-exp1.licdn.com/dms/image/C4D03AQGYIRiCWRlZWw/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=yjIaeUTDR9RWtPV1jjAy7ZSI1S6jwozxt4AzocCZMyQ)
+![Image](https://media-exp1.licdn.com/dms/image/C4D03AQGYIRiCWRlZWw/profile-displayphoto-shrink_400_400/0?e=1609977600&v=beta&t=PQ5rwXOXoT4cWPpzbYfQ-ZyvmGeRKHfyg4uV71kRxLg)
 
 jacklyn_mcgrath@student.uml.edu
 

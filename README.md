@@ -10,6 +10,7 @@ So why x-Browser over similar cross-browser testing solutions? Other testing ser
 [Original Project PDF](https://github.com/jackyyym/x-browser-site/blob/main/files/original-project-description.pdf)
 ### Presentation
 ### SRS
+[View our SRS here](https://docs.google.com/document/d/1JJ4D2XEN8Ga2qijBfo1bewYHArLPzZgTYzPfp26xuPw/edit?usp=sharing)
 ### Intermediate assignments
 ### Class/sequence diagrams
 

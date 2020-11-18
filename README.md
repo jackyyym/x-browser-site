@@ -16,7 +16,9 @@ So why x-Browser over similar cross-browser testing solutions? Other testing ser
 
 ## Prototype
 [Repository](https://github.com/jackyyym/x-browser)
+
 [Download](https://github.com/jackyyym/x-browser/releases)
+
 Note: The download only works for Windows 10, for other OS follow the instructions at the repository
 ### Demo Video
 

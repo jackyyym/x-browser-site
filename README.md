@@ -1,8 +1,8 @@
-## What is X-Browser?
-X-Browser mixes the best of both worlds when developing for web: a rich text editor with autocomplete functionality and real time testing.  Upon saving your HTML, CSS, or JavaScript file your code will come to life to  live in a multi browser view. Seeing your site running in major browsers like Chrome and Firefox all at once allows for better testing and compatibility checking. With X-Browser, you wont need to leave your editor to make sure your site is the best it can be!
+## What is x-Browser?
+x-Browser mixes the best of both worlds when developing for web: a rich text editor with autocomplete functionality and real time testing.  Upon saving your HTML, CSS, or JavaScript file your code will come to life to  live in a multi browser view. Seeing your site running in major browsers like Chrome and Firefox all at once allows for better testing and compatibility checking. With x-Browser, you wont need to leave your editor to make sure your site is the best it can be!
 
-## Why is X-Browser needed?
-So why X-Browser over similar cross-browser testing solutions? Other testing services are separated from your testing environment, requiring you to upload your website each time you would like to see your changes. X-Browser offers a streamlined all-in-one solution for testing your website across different browsers. Developers can edit their code and see the website all in one easy-to-use platform, no need for juggling several different tools!
+## Why is x-Browser needed?
+So why x-Browser over similar cross-browser testing solutions? Other testing services are separated from your testing environment, requiring you to upload your website each time you would like to see your changes. x-Browser offers a streamlined all-in-one solution for testing your website across different browsers. Developers can edit their code and see the website all in one easy-to-use platform, no need for juggling several different tools!
 
 ## Our Plan & Other Links
 [Team Files (restricted access)](https://drive.google.com/drive/folders/18pLuXi3tDflstceLGKMiwXNTEOpSbAV9?usp=sharing)

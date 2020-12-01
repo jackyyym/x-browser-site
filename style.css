@@ -63,12 +63,26 @@ footer p {
 .red {
   color: red;
 }
+.content.ignore-overlap {
+	margin-top: 30px;
+}
+
+.half-left, .half-right {
+	width: 45%;
+	display: inline-block;
+	text-align: center;
+	vertical-align: top
+}
 
 .video-wrapper {
   position: relative;
   overflow: hidden;
   height: 900px;
   width: 100%;
+}
+
+.content h1 {
+	margin-bottom: 10px;
 }
 
 #title-video {
@@ -95,10 +109,15 @@ nav ul li{
 }
 
 nav ul li a {
-  font-family: 'Oxygen Mono';
   text-decoration: none;
-  list-style: none;
   color: #f1f1f1;
+}
+
+a {
+	font-family: 'Oxygen Mono';
+  text-decoration: underline;
+  list-style: none;
+	color: black;
 }
 
 nav ul {
@@ -109,6 +128,14 @@ nav ul {
 
 nav ul #active {
   font-style: italic;
+}
+
+code {
+	font-family: 'Oxygen Mono';
+	background-color: rgb(59, 59, 59);
+	color:white;
+	border-radius: 5px;
+	padding: 0 5px;
 }
 
 .line {

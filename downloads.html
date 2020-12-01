@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>X-Browser</title>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Oxygen+Mono">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Ubuntu">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div class="video-wrapper">
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li id="active"><a href="#">Download</a></li>
+            <li><a href="#">Plans and Resources</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+        <video autoplay muted loop id="title-video">
+          <source src="title-video.mp4" type="video/mp4">
+        </video>
+        <div class="title-card">
+          <h1>Downloads</h1>
+          <div class="line"></div>
+          <h2>Download the software for your system.</h2>
+        </div>
+      </div>
+    </header>
+    <div class='content ignore-overlap'>
+      <div class='half-left'>
+        <h1>Windows</h1>
+        <ol>
+          <a href="https://github.com/jackyyym/x-browser/releases"> <img class="icons" src="icons/download.png" alt=""> </a>
+          <li><p>Download at the link above</p></li>
+          <li><p>Unzip the file</p></li>
+          <li><p>Run XBrowser.exe</p></li>
+        </ol>
+      </div>
+      <div class='half-left'>
+        <h1>macOS/Linux</h1>
+        <ol>
+          <a href="https://github.com/jackyyym/x-browser"> <img class="icons" src="icons/source.png" alt=""> </a>
+          <li><p>Download the source code at the link above</p></li>
+          <li><p>Unzip the file</p></li>
+          <li><p><a href="https://realpython.com/installing-python/">Download python here</a></p></li>
+          <li><p><a href="https://kivy.org/doc/stable/gettingstarted/installation.html?highlight=install">Download Kivy here</a></p></li>
+          <li><p>Run command <code>python3 ./xbrowser.py</code></p></li>
+        </ol>
+      </div>
+    </div>
+    <footer>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li id="active"><a href="#">Download</a></li>
+          <li><a href="#">Plans and Resources</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <p> Made with <span class='red'>♥</span> by the X-Browser team</p>
+      <p>© X-Browser 2020</p>
+    </footer>
+  </body>
+</html>

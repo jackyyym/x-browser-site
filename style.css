@@ -191,6 +191,28 @@ nav ul #active {
   margin-top: 30px;
 }
 
+img.hidden {
+	opacity: 0;
+	transform: translate(0, 80px);
+	transition: transform 1s, opacity 1s;
+}
+
+img.hidden-delay-1 {
+	transition-delay: 0.1s;
+}
+img.hidden-delay-2 {
+	transition-delay: 0.2s;
+}
+img.hidden-delay-3 {
+	transition-delay: 0.3s;
+}
+
+img {
+	opacity: 1;
+	transform: translate(0, 0);
+	transition: transform 1s, opacity 1s;
+}
+
 .card img.icons {
 	margin: 15px 30px;
 	height: 50px;

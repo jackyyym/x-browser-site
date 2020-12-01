@@ -166,6 +166,11 @@ nav ul #active {
   width: 50%;
 }
 
+.ph {
+	width: 90%;
+	height: auto;
+}
+
 .browsers {
   text-align: center;
 }

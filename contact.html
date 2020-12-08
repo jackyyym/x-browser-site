@@ -8,6 +8,7 @@
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Ubuntu">
     <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="main.js"></script>
   </head>
   <body>
     <header>
@@ -17,8 +18,8 @@
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About Us</a></li>
             <li><a href="downloads.html">Download</a></li>
-            <li id="active"><a href="#">Plans and Resources</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="diagram.html">Plans and Resources</a></li>
+            <li id="active"><a href="#">Contact</a></li>
             <li><a href="https://drive.google.com/drive/folders/18pLuXi3tDflstceLGKMiwXNTEOpSbAV9?usp=sharing"><img src="https://img.icons8.com/metro/26/000000/lock-2.png"/></a></li>
           </ul>
         </nav>
@@ -26,33 +27,37 @@
           <source src="title-video.mp4" type="video/mp4">
         </video>
         <div class="title-card">
-          <h1>Resources</h1>
+          <h1>Contact</h1>
           <div class="line"></div>
-          <h2>All the content and plans for X-Browser.</h2>
+          <h2>Now accepting questions, comments, and concerns!</h2>
         </div>
       </div>
     </header>
     <div class='content ignore-overlap'>
-      <div class="half-left">
-        <h2>Class Diagram</h2>
-        <a href="ClassDiagram.jpg"><img class="diagram" src="ClassDiagram.jpg" alt="Class Diagram"></a>
-      </div>
-      <div class="half-right">
-        <h2>Sequence Diagram 1</h2>
-        <a href="SequenceDiagram1.jpg"><img class="diagram" src="SequenceDiagram1.jpg" alt="Sequence Diagram 1"></a>
-      </div>
-      <div class="half-left">
-        <h2>Use-Case Diagram</h2>
-        <a href="Use-CaseDiagram.jpg"><img class="diagram" src="Use-CaseDiagram.jpg" alt="Sequence Diagram 2"></a>
-      </div>
-      <div class="half-right">
-        <h2>Sequence Diagram 2</h2>
-        <a href="SequenceDiagram2.jpg"><img class="diagram" src="SequenceDiagram2.jpg" alt="Sequence Diagram 2"></a>
-      </div>
-    </div>
-    <div class="content-center">
-      <h2>SRS</h2>
-      <a href="srs.pdf"><img class="diagram-50" src="png-icon.png"/></a>
+      <!-- Thanks to https://www.freecontactform.com for the contact form -->
+      <form id="fcf-form-id" class="fcf-form-class" onsubmit="sendEmail(this); return false">
+        <div class="fcf-form-group">
+            <label for="Name" class="fcf-label"><h2>Name</h2></label>
+            <div class="fcf-input-group">
+                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
+            </div>
+        </div>
+        <div class="fcf-form-group">
+            <label for="Email" class="fcf-label"><h2>Email address</h2></label>
+            <div class="fcf-input-group">
+                <input type="email" id="Email" name="Email" class="fcf-form-control" required>
+            </div>
+        </div>
+        <div class="fcf-form-group">
+            <label for="Message" class="fcf-label"><h2>Message</h2></label>
+            <div class="fcf-input-group">
+                <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
+            </div>
+        </div>
+        <div class="fcf-form-group">
+            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block"><h2>Send Message</h1></button>
+        </div>
+      </form>
     </div>
   </div>
     <footer>
@@ -61,8 +66,8 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About Us</a></li>
           <li><a href="downloads.html">Download</a></li>
-          <li id="active"><a href="#">Plans and Resources</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="diagram.html">Plans and Resources</a></li>
+          <li id="active"><a href="#">Contact</a></li>
           <li><a href="https://drive.google.com/drive/folders/18pLuXi3tDflstceLGKMiwXNTEOpSbAV9?usp=sharing"><img src="https://img.icons8.com/metro/26/000000/lock-2.png"/></a></li>
         </ul>
       </nav>
